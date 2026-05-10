@@ -1,0 +1,34 @@
+Materiale Teorico
+=================
+
+Documentazione teorica e approfondimenti.
+Materiale Teorico
+=================
+
+Documentazione teorica e approfondimenti.
+
+1. Idrodinamica delle correnti
+------------------------------
+
+Qui analizziamo come si muove l'acqua.
+
+1.1 Equazioni di Saint-Venant
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Le equazioni fondamentali per il moto vario.
+
+1.1.1 Conservazione della massa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dettagli tecnici sulla continuità del flusso.
+
+2. Modellazione Digitale del Terreno
+------------------------------------
+
+Livello dedicato ai dati geografici.
+
+2.1 Differenza tra DTM e DSM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* **DTM:** Rappresenta il suolo nudo.
+* **DSM:** Include edifici e vegetazione.

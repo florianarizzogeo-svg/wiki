@@ -1,0 +1,5 @@
+Corsi e Formazione
+==================
+
+Benvenuto nella sezione corsi.
+* Scarica la presentazione: :download:`Clicca qui per scaricare il PowerPoint <_static/Prova_ppt.pptx>`

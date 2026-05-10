@@ -1,0 +1,12 @@
+WIKI
+====
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   corsi
+   teoria
+   esercitazioni
+   pubblicazioni
+

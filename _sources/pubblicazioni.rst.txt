@@ -1,0 +1,6 @@
+pubblicazioni
+===================
+
+.. raw:: html
+
+    <iframe src="_static/umbria_landslides.pdf" width="100%" height="800px"></iframe>

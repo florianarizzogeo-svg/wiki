@@ -1,0 +1,11 @@
+FLO-2D MapCrafter Basics
+------------------------
+
+In questo video tutorial ufficiale viene illustrato l'utilizzo del plug-in MapCrafter.
+
+.. image:: https://img.youtube.com/vi/2UGhL9qsYFY/maxresdefault.jpg
+   :target: https://www.youtube.com/watch?v=2UGhL9qsYFY
+   :width: 560px
+   :align: center
+
+`Guarda il Video Tutorial su YouTube (clicca qui) <https://www.youtube.com/watch?v=2UGhL9qsYFY>`_
